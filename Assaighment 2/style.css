@@ -1,0 +1,282 @@
+body{
+    font-family: "Poppins", sans-serif ;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    padding-right: 40px;
+    align-items: center;
+}
+li{
+    list-style: none;
+    padding-right: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.navbar{
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.tittle{
+    padding-top: 20px;
+    padding-left: 120px;
+}
+.container .fa-solid{
+    font-size: 30px;
+    padding-right: 30px;
+}
+.span{
+    font-size: 70px;
+    font-weight: 700;
+}
+.Tittle p{
+    font-weight: 600;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Tittle .fa-solid{
+    color: white;
+}
+.Tittle button{
+    width: 250px;
+    height: 50px;
+    border-radius: 94px;
+    background-color: rgb(255, 0, 119);
+    border: 1px solid rgb(255, 0, 119);
+}
+.Tittle a{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.vlog{
+    display: flex;
+    align-items: center;
+    padding-left: 120px;
+    padding-top: 80px;
+    justify-content: space-between;
+}
+.photo img{
+    width: 700px;
+
+}
+.photo{
+    padding-right: 20px;
+}
+.svg-files{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 200px;
+    margin-bottom: 70px;
+    margin-top: 100px;
+    margin-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 2px solid rgba(128, 128, 128, 0.288);
+    border-bottom:2px solid rgba(128, 128, 128, 0.288) ;
+}
+.alibaba img{
+    width: 100px;
+    padding-right: 80px;
+}
+.amazon img{
+    width: 130px ;
+    padding-right: 80px;
+}
+.Daraz img{
+    width: 150px;
+    padding-right: 80px;
+}
+.Ebay img{
+    width: 150px;
+    padding-right: 80px;
+}
+.Rakuten img{
+    width: 150px;
+    padding-right: 80px;
+}
+.Target img{
+    width: 150px;
+    padding-right: 80px;
+}
+.walmet img{
+    width: 150px;
+}
+body{
+   background-color: #f2f2f2;
+}
+span h1{
+text-align: center;
+padding-top: 50px;
+}
+h2{
+    font-weight: 500;
+}
+.first{
+    display: flex;
+    justify-content: center;
+}
+.Flex-tripot{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.Flex-tripot img{
+    width: 400px;
+}
+.microphone{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.microphone img{
+    width: 400px;
+}
+.airbuds{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.airbuds img{
+    width: 400px;
+}
+.first{
+    padding-top: 50px;
+}
+.first-vlog{
+    margin-left: 100px;
+}
+.second-vlog{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.drone{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.light{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.photoshoot{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.second-vlog img{
+    width: 400px;
+}
+.third-vlog{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.Vlogging{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.green{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.action{
+    box-shadow: 0px 14px 28px rgba(128, 128, 128, 0.288);
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+.third-vlog img{
+    width: 400px;
+}
+.paragraph{
+    font-weight: 600;
+    font-size: 20px;
+    color:gray ;
+}
+.last{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 250px;
+}
+.img img{
+    width: 500px;
+}
+.h{
+    font-size: 50px;
+}
+.img{
+    
+}
+.text{
+    padding-left: 120px;
+}
+.text button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 0, 119);
+    border: 1px solid rgb(255, 0, 119);
+}
+.text a{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.footer{
+    background: #000;
+    margin-top: 100px;
+    padding-top: 80px;
+}
+.Text p{
+    color: white;
+
+}
+.Text h1{
+    color: white;
+}
+.footer{
+    justify-content: center;
+    display: flex;
+
+}
+.Text ul{
+    padding-left: 25%;
+    padding-right: 20%;
+}
+.Text{
+    margin-bottom: 100px;
+}
+.All{
+    margin-left: 80px;
+}
+
